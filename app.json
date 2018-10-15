@@ -1,0 +1,11 @@
+{
+    "pages": [
+        "pages/login/login"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#01B7EE",
+        "navigationBarTitleText": "旅客服务",
+        "navigationBarTextStyle": "white"
+    }
+}

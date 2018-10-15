@@ -1,0 +1,23 @@
+/**app.wxss**/
+Page {
+  min-height: 100%;
+  background:rgba(239,239,244,1);
+}
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 
+.scroll-x {
+    display: flex;
+    min-width: 100%;
+}
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
